@@ -8,5 +8,8 @@ Original Dataset: http://research.signalmedia.co/newsir16/signal-dataset.html
 
 * Tweets: Public Stream (1% Sample) & Curated Stream
 * Wikipedia Events Portal
-* Google Trends
-* Reddit
+* ICEWS
+* GDELT: ?
+* OEDA: Phoenix Data Project?
+* Google Trends: ?
+* Reddit: ?
