@@ -8,9 +8,9 @@ WIP
 
 ## Downloading:
 
-Run the [download.ipynb](notebook) cells for the data you're interested in.
+Run the [notebook](download.ipynb) cells for the data you're interested in.
 
-Run download.py to download everything (This will take a while, ~200 GB)
+Run [download.py](download.py) to download everything (This will take a while, ~200 GB)
 
 ## External Data:
 
